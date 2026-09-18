@@ -1,0 +1,1 @@
+# woocommerce-conditional-shipping-by-product-category
